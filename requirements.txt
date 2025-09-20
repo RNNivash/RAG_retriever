@@ -1,0 +1,15 @@
+fastapi[standard]
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-community
+langchain_community
+chromadb
+sentence-transformers
+transformers
+faiss-cpu
+streamlit
+python-multipart
+rag_pipeline
+langchain_huggingface
+torch
