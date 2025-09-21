@@ -13,3 +13,4 @@ python-multipart
 rag_pipeline
 langchain_huggingface
 torch
+pypdf
